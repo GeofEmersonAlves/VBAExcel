@@ -1,2 +1,2 @@
 # VBAExcel
-Código em Visual Basic for Applications com funções personalizadas para o Excel
+Código em Visual Basic for Applications (VBA) com funções personalizadas para o Excel, utilidades e alguns jogos.
